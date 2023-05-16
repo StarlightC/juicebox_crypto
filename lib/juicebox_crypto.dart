@@ -1,4 +1,4 @@
-library juicebox_encryption;
+library juicebox_crypto;
 
 /// A Calculator.
 class Calculator {

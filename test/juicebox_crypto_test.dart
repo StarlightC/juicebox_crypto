@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:juicebox_encryption/juicebox_encryption.dart';
+import 'package:juicebox_crypto/juicebox_crypto.dart';
 
 void main() {
   test('adds one to input values', () {
